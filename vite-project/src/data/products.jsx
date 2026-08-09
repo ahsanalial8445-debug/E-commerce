@@ -1,0 +1,10 @@
+export const products = [
+  { id: 1, name: 'Wireless Headphones', price: 79.99, oldPrice: 120.00, emoji: '🎧', badge: 'Sale', category: 'Electronics', description: 'Premium wireless headphones with active noise cancellation, 30-hour battery life, and crystal-clear sound quality. Perfect for music, calls, and travel.' },
+  { id: 2, name: 'Smart Watch', price: 149.99, oldPrice: null, emoji: '⌚', badge: 'New', category: 'Electronics', description: 'Track your fitness, heart rate, and sleep with this sleek smart watch. Water-resistant with a 7-day battery life and customizable watch faces.' },
+  { id: 3, name: 'Running Shoes', price: 59.99, oldPrice: 90.00, emoji: '👟', badge: 'Sale', category: 'Sports', description: 'Lightweight running shoes with responsive cushioning and breathable mesh upper. Designed for comfort on long runs.' },
+  { id: 4, name: 'Leather Backpack', price: 89.99, oldPrice: null, emoji: '🎒', badge: null, category: 'Fashion', description: 'Handcrafted genuine leather backpack with padded laptop compartment. Fits up to a 15-inch laptop, ideal for work or travel.' },
+  { id: 5, name: 'Sunglasses', price: 34.99, oldPrice: 50.00, emoji: '🕶️', badge: 'Sale', category: 'Fashion', description: 'UV400 protection polarized sunglasses with a durable, lightweight frame. Stylish and functional for everyday wear.' },
+  { id: 6, name: 'Camera Lens', price: 299.99, oldPrice: null, emoji: '📷', badge: 'New', category: 'Electronics', description: 'Professional-grade 50mm prime lens with wide aperture for stunning portraits and low-light photography.' },
+  { id: 7, name: 'Desk Lamp', price: 24.99, oldPrice: null, emoji: '💡', badge: null, category: 'Home & Living', description: 'Adjustable LED desk lamp with 3 brightness levels and touch control. Energy-efficient and eye-friendly.' },
+  { id: 8, name: 'Coffee Maker', price: 64.99, oldPrice: 85.00, emoji: '☕', badge: 'Sale', category: 'Home & Living', description: 'Compact drip coffee maker with programmable timer and auto shut-off. Brews up to 12 cups.' },
+];
