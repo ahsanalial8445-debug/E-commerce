@@ -1,16 +1,25 @@
-# React + Vite
+# 🛒 Full-Stack E-Commerce Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A complete online store built with MERN Stack.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
+[Click Here](https://your-ecommerce.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
+- User authentication (JWT)
+- Product listing & search
+- Add to cart & checkout
+- Admin panel
+- Order management
+- Responsive design
 
-## React Compiler
+## 🛠️ Tech Stack
+- Frontend: React.js, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Deployment: Vercel
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 🚀 Setup
+```bash
+npm install
+npm run dev
