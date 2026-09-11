@@ -3,7 +3,7 @@
 A complete online store built with MERN Stack.
 
 ## 🔗 Live Demo
-[Click Here](https://your-ecommerce.vercel.app)
+[Click Here] https://aurelia-frontend-tawny.vercel.app
 
 ## ✨ Features
 - User authentication (JWT)
